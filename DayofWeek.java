@@ -7,7 +7,7 @@ public class DayofWeek {
         //System.out.print("Input number: ");
         //int day = in.nextInt();
         int day = Integer.parseInt(args[0]);
-        //System.out.println(getDayName(day));
+        System.out.println(getDayName(day));
     }
 
     // Get the name for the Week
